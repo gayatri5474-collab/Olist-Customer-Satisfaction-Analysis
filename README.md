@@ -74,7 +74,7 @@ Power BI Dashboard
 Business Insights
 ```
 
-🔍 Analysis Performed
+## 🔍 Analysis Performed
 
 1. Data Cleaning
 
