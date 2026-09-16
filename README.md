@@ -22,7 +22,7 @@ The main objectives of this project are to:
 
 The analysis uses the Olist Brazilian E-Commerce dataset containing approximately 100K e-commerce orders and multiple related datasets.
 
-The datasets include information related to:
+The dataset includes information related to:
 
 - Orders
 - Customers
@@ -32,6 +32,8 @@ The datasets include information related to:
 - Reviews
 - Order items
 - Geolocation
+
+**Dataset:** [Olist Order Reviews Dataset](https://www.kaggle.com/datasets/gayatribehera5474/olist-order-reviews-dataset)
 
 ## 🛠️ Tools & Technologies
 
