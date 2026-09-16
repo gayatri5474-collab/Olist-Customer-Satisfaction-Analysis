@@ -148,11 +148,16 @@ Ensure the required Olist dataset files are available in the expected location.
 Run the notebook cells sequentially.
 
 ## 📁 Project Structure
+
+```text
 Olist-Customer-Satisfaction-Analysis/
 │
 ├── data-cleaning_Gayatri Behera.ipynb
 ├── eda-and-baseline-model_Gayatri Behera.ipynb
 ├── model-comparison-and-optimisation_Gayatri Behera.ipynb
+├── dashboard_Gayatri Behera.pdf
+├── final_report_Gayatri Behera.pdf
+├── final_management_presentation.pdf
 └── README.md
 
 ## 📌 Project Outcome
