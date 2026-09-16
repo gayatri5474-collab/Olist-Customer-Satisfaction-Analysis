@@ -119,12 +119,12 @@ Used:
 1. SHAP to understand feature contributions to model predictions.
 2. LIME to explain individual predictions.
 
-📈 Power BI Dashboard
+## 📈 Power BI Dashboard
 
 A Power BI dashboard was developed to communicate important findings from the analysis in an interactive and business-friendly format.
 The dashboard focuses on customer satisfaction and factors related to the e-commerce order experience.
 
-💡 Key Business Insights
+## 💡 Key Business Insights
 
 The analysis was used to identify relationships between customer satisfaction and factors such as:
 
@@ -135,7 +135,7 @@ Product-related factors
 
 These insights can help e-commerce businesses identify areas for improving customer experience and operational performance.
 
-▶️ How to Run
+## ▶️ How to Run
 Clone or download this repository.
 Install the required Python libraries.
 Open the notebooks using Jupyter Notebook or JupyterLab.
@@ -147,7 +147,7 @@ model-comparison-and-optimisation_Gayatri Behera
 Ensure the required Olist dataset files are available in the expected location.
 Run the notebook cells sequentially.
 
-📁 Project Structure
+## 📁 Project Structure
 Olist-Customer-Satisfaction-Analysis/
 │
 ├── data-cleaning_Gayatri Behera.ipynb
@@ -155,10 +155,10 @@ Olist-Customer-Satisfaction-Analysis/
 ├── model-comparison-and-optimisation_Gayatri Behera.ipynb
 └── README.md
 
-📌 Project Outcome
+## 📌 Project Outcome
 This project demonstrates an end-to-end data analytics and machine learning workflow, from data preparation and exploratory analysis through model development, explainability and business visualization.
 It combines Python-based analytics with machine learning and Power BI to translate e-commerce data into actionable business insights.
 
-👩‍💻 Author
+### 👩‍💻 Author
 Gayatri Behera
 Data Analytics | Python | SQL | Power BI | Machine Learning | Engineering Analytics
